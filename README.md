@@ -28,7 +28,7 @@
   <a href="https://discord.com/users/SEU_ID_DO_DISCORD" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:donnatello105@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/douglas-duarte-7b8051336/" target="_blank">
